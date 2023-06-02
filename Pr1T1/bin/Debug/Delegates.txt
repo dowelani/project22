@@ -1,0 +1,20 @@
+21,Aubrey ,Computers in Education,false
+27,Ferdi,Robotics,false
+33,Laurence,Renewable Energy,false
+30,Justin ,Mobile Applications,true
+14,Siyabulela ,Decolonisation,true
+13,Enzo,Renewable Energy,false
+44,Cullen ,Decolonisation,true
+20,Wynand,Mobile Applications,true
+37,Nelisa,Robotics,false
+48,Bonga,Bio-informatics,true
+46,Michael ,Artificial Intelligence,true
+10,Michael ,Mobile Applications,true
+42,Luma,Sustainability,true
+50,Odwa ,Mobile Applications,true
+52,Bryn ,Sustainability,true
+31,Sheldon ,Computers in Education,false
+34,Brett ,Decolonisation,true
+28,Eduard,Bio-informatics,true
+1,Shaheed,Computers in Education,false
+29,Hans ,Large Scale Networking,false

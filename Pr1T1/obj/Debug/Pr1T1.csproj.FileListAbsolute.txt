@@ -1,0 +1,18 @@
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Solutions\Pr1T1\Pr1T1\bin\Debug\Pr1T1.exe.config
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Solutions\Pr1T1\Pr1T1\obj\Debug\Pr1T1.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Solutions\Pr1T1\Pr1T1\bin\Debug\Pr1T1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Solutions\Pr1T1\Pr1T1\bin\Debug\Pr1T1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Solutions\Pr1T1\Pr1T1\obj\Debug\Pr1T1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Solutions\Pr1T1\Pr1T1\obj\Debug\Pr1T1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Template Files\Pr1T1\Pr1T1\bin\Debug\Pr1T1.exe.config
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Template Files\Pr1T1\Pr1T1\obj\Debug\Pr1T1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Template Files\Pr1T1\Pr1T1\obj\Debug\Pr1T1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Template Files\Pr1T1\Pr1T1\bin\Debug\Pr1T1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Template Files\Pr1T1\Pr1T1\bin\Debug\Pr1T1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 1 - 12 October 2020 (Stacks)\DigiLT\Practical Template Files\Pr1T1\Pr1T1\obj\Debug\Pr1T1.csprojResolveAssemblyReference.cache
+C:\Users\khumbelo\Downloads\wrav2\Unit 1 Practical Task Template and Submission Files\Pr1T1\Pr1T1\bin\Debug\Pr1T1.exe.config
+C:\Users\khumbelo\Downloads\wrav2\Unit 1 Practical Task Template and Submission Files\Pr1T1\Pr1T1\bin\Debug\Pr1T1.exe
+C:\Users\khumbelo\Downloads\wrav2\Unit 1 Practical Task Template and Submission Files\Pr1T1\Pr1T1\bin\Debug\Pr1T1.pdb
+C:\Users\khumbelo\Downloads\wrav2\Unit 1 Practical Task Template and Submission Files\Pr1T1\Pr1T1\obj\Debug\Pr1T1.csprojAssemblyReference.cache
+C:\Users\khumbelo\Downloads\wrav2\Unit 1 Practical Task Template and Submission Files\Pr1T1\Pr1T1\obj\Debug\Pr1T1.exe
+C:\Users\khumbelo\Downloads\wrav2\Unit 1 Practical Task Template and Submission Files\Pr1T1\Pr1T1\obj\Debug\Pr1T1.pdb
